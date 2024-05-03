@@ -1,0 +1,16 @@
+body {
+  background-image: url("https://cdn.glitch.global/4d1ebdc1-93c9-4924-bf8d-b23f659e281c/Screenshot%202024-04-11%20at%207.55.36%E2%80%AFPM.png?v=1712883348937");
+  background-size: cover;
+}
+
+h1{
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+mark {
+  background-color: pink;
+}

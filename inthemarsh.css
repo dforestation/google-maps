@@ -1,0 +1,40 @@
+body {
+  background-image: url("https://cdn.glitch.global/32ee72b3-b192-48d1-953c-dbaf7586d147/Screenshot%202024-04-23%20at%2011.46.20%E2%80%AFAM.png?v=1713890984901");
+  background-size: cover;
+}
+
+p {
+  text-align: center;
+  color: black;
+}
+
+
+mark {
+  background-color: white;
+}
+
+img {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+audio {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+div {
+  text-align: center;
+}

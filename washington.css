@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://cdn.glitch.global/2d12a83c-9832-4e77-af45-982af2153f20/Screenshot%202024-04-16%20at%203.59.50%E2%80%AFPM.png?v=1713301373049");
+  background-size: cover;
+}
+
+p {
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  height: 150px
+}
+
+mark {
+  background-color: yellow;
+}
